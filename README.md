@@ -1,2 +1,2 @@
 # swiggyEDA
-This repository contains an Exploratory Data Analysis (EDA) of the Swiggy dataset sourced from Kaggle. The dataset has undergone basic data cleaning procedures. Specific questions have been addressed and answered through analysis.
+This project revolves around examining a dataset obtained from Kaggle, which pertains to Swiggy, a popular food delivery platform. The dataset comprises various details about restaurants, including their names, ratings, delivery times, types of food they offer, their locations, and the discounts they provide. The initial phase of the project involved cleaning up the dataset to ensure its accuracy and consistency. Subsequently, through thorough analysis and exploration of the data, specific questions were addressed and answered.
